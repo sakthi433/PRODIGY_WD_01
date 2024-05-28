@@ -1,5 +1,4 @@
-# PRODIGY_WD_01
-Munnar Camp Tent Stay Landing Page
+# Munnar Camp Tent Stay Landing Page
 
 Project Description:
 This project is a landing page for Munnar Camp Tent Stay, designed to attract visitors and provide them with essential information about the camping experience. The landing page is built using HTML, CSS, and JavaScript, ensuring a responsive and engaging user experience.
